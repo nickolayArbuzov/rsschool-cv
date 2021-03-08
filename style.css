@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(36, 36, 41);
+}
+.container{
+    margin: 0 auto;
+    background-color: rgb(109, 109, 109);
+    max-width: 1200px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+}
+.header h2{
+    text-align: center;
+    line-height:200px;
+}
+.header img{
+    margin-left: -49px;
+    width: 266px; 
+    height: 200px;
+}
+.figure{
+    width: 200px;
+    height: 200px;
+    border-radius: 35%;
+    overflow: hidden;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.article{
+    border: 1px solid rgb(160, 160, 160);
+    padding: 25px;
+}
+
+h2{
+    text-align: center;
+}
+code p{
+    margin: 0px;
+}
+.tab{
+    text-indent: 4em;
+}
+.tab2{
+    text-indent: 6em;
+}
+.tab3{
+    text-indent: 8em;
+}
