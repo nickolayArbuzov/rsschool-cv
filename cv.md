@@ -53,7 +53,7 @@ A click-eventlistener is added to the playing field, and after the click, an eve
     })
 
 ### Experience  
-Cumulative experience, I would roughly estimate as 800-1000 hours - like taking courses, doing homework, solving tasks on codewars (and others), solving work tasks, writing macros, scripts, automating dashboards
+Cumulative experience, I would roughly estimate as 800-1000 hours of programming - like taking courses, doing homework, solving tasks on codewars (and others), solving work tasks, writing macros, scripts, automating dashboards
 
 ### Education  
 I have an ordinary higher education in the specialty "Finance and Credit".
@@ -62,3 +62,7 @@ But I also took a lot of courses: face-to-face courses - "Forex", "Software Test
 ### My English level  
 I have approximately A2-level(pre-intermediate), read and translate, understand a little by ear and speak a little.  
 My practice - I attended an English camp in childhood and in childhood completed the game Fallout 2 in English, with a dictionary, playing for the first time (in the game of all dialogues and inscriptions - 400k words)
+
+### Contacts  
+You can contact me by phone +375 25 9121872  
+My GitHub https://github.com/nickolayArbuzov
