@@ -64,5 +64,5 @@ I have approximately A2-level(pre-intermediate), read and translate, understand 
 My practice - I attended an English camp in childhood and in childhood completed the game Fallout 2 in English, with a dictionary, playing for the first time (in the game of all dialogues and inscriptions - 400k words)
 
 ### Contacts  
-You can contact me by phone/telegam +375 25 9121872  
+You can contact me by phone/telegram +375 25 9121872  
 My GitHub https://github.com/nickolayArbuzov
