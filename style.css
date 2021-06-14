@@ -3,6 +3,7 @@ body{
 }
 .container{
     margin: 0 auto;
+    color: rgb(209, 209, 209);
     background-color: rgb(109, 109, 109);
     max-width: 1200px;
 }
